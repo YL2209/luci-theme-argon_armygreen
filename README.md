@@ -1,4 +1,4 @@
 # luci-theme-argon_armygreen
 原主题:https://github.com/liuran001/openwrt-packages/tree/packages/luci-theme-argon-lr/htdocs/luci-static/argon_armygreen
-![](/jpg/1.PNG)
-![](/jpg/2.PNG)
+![](/jpg/1.png)
+![](/jpg/2.png)
