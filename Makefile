@@ -12,7 +12,7 @@ include $(TOPDIR)/rules.mk
 LUCI_TITLE:=Argon Theme magic version
 LUCI_DEPENDS:=
 PKG_VERSION:=1
-PKG_RELEASE:=20201005
+PKG_RELEASE:=20210620
 
 include $(TOPDIR)/feeds/luci/luci.mk
 
